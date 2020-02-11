@@ -1,0 +1,13 @@
+h1 {
+    font-weight: lighter;
+    font-style: italic;
+  }
+
+.dark {
+  background-color: #616668;
+}
+
+.dark nav a {
+  text-decoration: none;
+  color: white;
+}
